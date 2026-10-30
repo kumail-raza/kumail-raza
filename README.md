@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+there!+I%27m+Kumail+Raza+%F0%9F%91%8B;Software+Architect+%7C+Lead+Full+Stack+Engineer;14%2B+Years+Building+Distributed+Systems;%F0%9F%8C%8D+Open+to+Remote+Opportunities" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+there!+I%27m+Kumail+Raza+%F0%9F%91%8B;Software+Architect+%7C+Lead+Full+Stack+Engineer;8%2B+Years+Building+Distributed+Systems;%F0%9F%8C%8D+Open+to+Remote+Opportunities" alt="Typing SVG" /></a>
 
 <br/>
 
